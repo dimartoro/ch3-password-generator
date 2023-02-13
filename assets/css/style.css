@@ -1,7 +1,8 @@
 .title{
     width:50%;
     border: solid black 3px;
-    font-size: 3em;
+    font-size: 2.5em;
+    color: rgb(46, 45, 45);
     margin:1em auto;
     text-align: center;
 }
@@ -13,24 +14,30 @@
     margin:1em auto;
     text-align: center;
 }
+ 
 
-.result-area > span{
+  .result-area > span{
+
     font-size: 3em;
     text-align: center;
-}
+    
+}  
 
-.result-area h6{
-    font-variant: small-caps;
+ .result-area h6{  
+    
+    font-variant: small-caps; 
     color:rgb(124, 121, 126)
-}
+} 
 
 .section-generate{
     width: 50%;
     margin:1em auto;
-   text-align: center;
+    font-size:medium;
+    text-align: center;
 }
 
 #btnPassword{
-    font-size: 3em;
+    font-size: 2.5em;
+    font-stretch:narrower;
 }
 
