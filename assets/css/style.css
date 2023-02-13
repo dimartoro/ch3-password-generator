@@ -15,8 +15,13 @@
 }
 
 .result-area > span{
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
+}
+
+.result-area h6{
+    font-variant: small-caps;
+    color:rgb(124, 121, 126)
 }
 
 .section-generate{
