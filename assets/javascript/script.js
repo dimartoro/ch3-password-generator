@@ -19,6 +19,9 @@
 //main function called by the click event of the button
 function passWordDialogs(){
     var spn = document.getElementById('spnResult');
+    spn.textContent = "";
+    setTimeout(function(){
+        
     var pwLength = prompt("enter length");
 
 
@@ -50,6 +53,9 @@ function passWordDialogs(){
     //call to createPassword function with paramenters to create password based on configuration variables.
     var newPassword = createPassword(pwLength, upperValues, lowerValues, numericValues, specialValues);
     spn.innerHTML = newPassword;
+    },1);
+
+
 }
 
 
