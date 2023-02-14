@@ -9,7 +9,6 @@ The Password Generator Website works based on five parameters. The first one is 
 ## Table of Contents
 
 - [Installation](#installation)
-- [ChallengeURL](#challengeurl)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -22,8 +21,6 @@ The Password Generator Website works based on five parameters. The first one is 
 4. Created 3 featured branches to commit and push changes from my local repo to my remote repo to keep backup versions of my code.
 5. Created the Readme File.
 
-## ChallengeURL
-
 
 
 ## Usage 
@@ -35,21 +32,6 @@ The Password Generator Website works based on five parameters. The first one is 
 ![alt "Password Generator"](./assets/images/generatepasswordp5.png) Password Generator p5
 
 
-
-## Credits
-
-https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
-
-https://www.semrush.com/blog/semantic-html5-guide/
-
-https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/JavaScript_Introduction.html#zz-2.1
-
-https://www.tutorialspoint.com/javascript/javascript_dialog_boxes.htm#
-
-
-## License
-
-Please refer to the License in the repo.
 
 
 
