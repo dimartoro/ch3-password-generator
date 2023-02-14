@@ -18,7 +18,7 @@ The Password Generator Website works based on five parameters. The first one is 
 1. Created a new repository in GitHub
 2. Cloned it to my local repository using git bash.
 3. Started my html, css and javascript coding on my local repository and added, committed and pushed inial code to my remote repository.
-4. Created 3 featured branches to commit and push changes from my local repo to my remote repo to keep backup versions of my code.
+4. Created 5 feature branches to commit and push changes from my local repo to my remote repo to keep my backups save.
 5. Created the Readme File.
 
 
@@ -30,6 +30,25 @@ The Password Generator Website works based on five parameters. The first one is 
 ![alt "Password Generator"](./assets/images/generatepasswordp3.png) Password Generator p3
 ![alt "Password Generator"](./assets/images/generatepasswordp4.png) Password Generator p4
 ![alt "Password Generator"](./assets/images/generatepasswordp5.png) Password Generator p5
+
+
+## Credits
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
+
+https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+
+https://www.w3schools.com/jsref/event_onclick.asp
+
+https://www.semrush.com/blog/semantic-html5-guide/
+
+
+
+## License
+
+Please refer to the License in the repository.
+
+
 
 
 
