@@ -27,6 +27,20 @@ The Password Generator Website works based on five parameters. The first one is 
 
 ## Usage 
 
+![alt "Password Generator"](./assets/images/generatepasswordp1.png) Password Generator p1
+![alt "Password Generator"](./assets/images/generatepasswordp2.png) Password Generator p2
+![alt "Password Generator"](./assets/images/generatepasswordp3.png) Password Generator p3
+![alt "Password Generator"](./assets/images/generatepasswordp4.png) Password Generator p4
+![alt "Password Generator"](./assets/images/generatepasswordp5.png) Password Generator p5
+
+
+## Credits
+
+https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+
+https://www.semrush.com/blog/semantic-html5-guide/
+
+
 
 
 
