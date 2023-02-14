@@ -9,7 +9,6 @@ The Password Generator Website works based on five parameters. The first one is 
 ## Table of Contents
 
 - [Installation](#installation)
-- [ChallengeURL](#challengeurl)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -21,8 +20,6 @@ The Password Generator Website works based on five parameters. The first one is 
 3. Started my html, css and javascript coding on my local repository and added, committed and pushed inial code to my remote repository.
 4. Created 2 feature branches to commit and push changes from my local repo to my remote repo to keep my backups save.
 5. Created the Readme File.
-
-## ChallengeURL
 
 
 ## Usage 
@@ -39,6 +36,15 @@ The Password Generator Website works based on five parameters. The first one is 
 https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
 
 https://www.semrush.com/blog/semantic-html5-guide/
+
+https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+
+
+## License
+
+Please refer to the License in the repository.
+
+
 
 
 
